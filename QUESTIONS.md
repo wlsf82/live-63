@@ -8,7 +8,7 @@ Humberto Gouveia
 
 ✅ Na estrutura de pastas do Cypress, onde devem ficar os testes de API?"
 
-- https://github.com/wlsf82/curso-cypress-intermediario/tree/passo-a-passo-e-solucao-final/cypress/integration/gui
+- https://github.com/wlsf82/curso-cypress-intermediario/tree/passo-a-passo-e-solucao-final/cypress/integration/api
 - https://github.com/wlsf82/gitlab-cypress
 
 Vitor Botechi
