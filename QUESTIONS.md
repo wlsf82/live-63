@@ -100,6 +100,95 @@ Juliano Teixeira
 
 Lucas Filardi Grecco
 
-✅ Diferenças do cypress e do Selenium
+✅ Diferenças do Cypress e do Selenium
 
 https://youtu.be/dsPiRpzJ9KE
+
+Kaio Cândido Santiago
+
+✅ Famosa pergunta, porque cypress e não o selenium? Até que ponto o cypress vem avançando para automação em outras plataforma(ex: mobile)?
+
+João Santos
+
+✅ 1 - O que você faz quando precisa testar domínios diferentes no Cypress?
+✅ 2 - E como vc faz os dados pré automação, usa o próprio Cypress ou Cronjob?
+
+- https://youtu.be/ASCAt2tuG_A
+- https://github.com/cypress-io/cypress-realworld-app
+
+Philipe Kawakami
+
+✅ Qual melhor forma de lidar com loops no Cypress devido a limitações?
+
+https://github.com/wlsf82/cypress-basico-v2/blob/aula-4/cypress/integration/CAC-TAT.spec.js#L113
+
+Aline Hatakeyama
+
+✅ 1 - Existe uma forma de testar gráficos?
+✅ 2 - Como testamos filtros que traz uma listagem de itens?
+
+Bruno Alves Quintanilha
+
+✅ 1 - Existe alguma vantagem em usar TypeScript ao invés de JavaScript num projeto Cypress?
+
+- https://youtu.be/FTJn--yApoo
+- https://youtu.be/84pXEgkuaQs
+
+✅ 2 - Afinal, a execução dos comandos Cypress é assíncrona?
+
+- https://www.toolsqa.com/cypress/cypress-asynchronous-nature
+- https://www.toolsqa.com/cypress/handle-non-cypress-async-promises/
+
+✅ 3 - Em qual momento usar os comandos cy.window() e cy.task() em projetos reais?
+
+- https://github.com/cypress-io/cypress-realworld-app
+- https://youtu.be/-SwzI7WRarQ
+
+Deivisom Oliveira
+
+❌ Por que quando filtramos o mesmo dado usando API funciona e usando um array de um JSON não?
+Quando eu uso a API e uso um filtro hardcoded, filtra corretamente.
+Agora, quando eu uso uma fixture e tento fazer o mesmo processo não.
+
+Matheus Neves
+
+✅ Vale a pena criar testes de API com Cypress?
+
+- https://youtu.be/iPt0K6dttcM
+- https://talkingabouttesting.com/2021/02/07/como-verificar-a-estrutura-do-body-de-um-esquema-json-com-cypress/
+
+Sérgio Eduardo
+
+✅ Provavelmente as perguntas mais básicas de todas: Quando vai ser a Live? Como me inscrevo?
+
+Victor de Camilo
+
+✅ Como testar o recebimento de um email (como aqueles de confirmação de cadastro ou de envio de código de verificação)?
+
+- https://youtu.be/T4txmk4vENM
+
+Wadson Garbes
+
+❌/✅ Como testar arquivos de texto (se isso for possível) layout e disposição de campos em massa?
+
+- https://docs.cypress.io/api/commands/readfile
+
+Rafael Schulte
+
+❌/✅ Como acessar os dados do body de uma response após utilizar dados do tipo FormData em um cy.request() para um teste de API?
+
+- https://talkingabouttesting.com/2021/02/07/como-verificar-a-estrutura-do-body-de-um-esquema-json-com-cypress/
+
+Willian Santos
+
+✅ Quais os benefícios de utilizar o Cypress num ambiente Docker?
+
+Lucas Rodrigues Cardoso
+
+✅ 1 - Como planejar testes automatizados em uma plataforma que tem inúmeras features?
+✅ 2 - Como lidar com o tempo excessivo de teste?
+
+Lay - Rosa Lauren
+
+❌ 1 - Vc já usou cypress com AWS Amplify Console?
+✅ 2 - Quando clica em continuar abre um modal que vc clica novamente ok de pois abre outro modal. Como abrir esse modal com Cypress?
